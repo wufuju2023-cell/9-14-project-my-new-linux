@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 备份/临时
+*.bak
+*.bak-*
+*.tmp
+.DS_Store
+
+# 训练产物（云上生成，不入库）
+runs/
+checkpoints/
+*.pt
+*.safetensors
