@@ -65,8 +65,8 @@ GitHub 前缀：`https://github.com/wufuju2023-cell/reap-new-update-model-value-
 本地根：`/home/a/文档/project/`
 | REF | 路径 | GitHub |
 |---|---|---|
-| REF-29 | `2-9-14-Q.md`（Q0–Q4 方案来源） | 未上云（本地 only；如需引用请先入库） |
-| REF-30 | `1-QLoRA-zhihu.md`（QLoRA 数学） | 未上云（本地 only） |
+| REF-29 | `2-9-14-Q.md`（Q0–Q4 方案来源） | https://github.com/wufuju2023-cell/9-14-project-my-new-linux/blob/main/2-9-14-Q.md |
+| REF-30 | `1-QLoRA-zhihu.md`（QLoRA 数学） | https://github.com/wufuju2023-cell/9-14-project-my-new-linux/blob/main/1-QLoRA-zhihu.md |
 
 ## E. 模型/权重（HuggingFace）
 | REF | 资源 | URL |
